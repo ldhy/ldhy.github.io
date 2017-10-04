@@ -30,4 +30,4 @@ Je veux développer des compétences en Fullstack PHP
 
 Mon projet professionnel, c'est de travailler dans une start up pour le travail en équipe, l'effervescence
 
-Vous souhaitez me contacter : [ici] (contact.html)
+Vous souhaitez me contacter : [ici](contact.html)
