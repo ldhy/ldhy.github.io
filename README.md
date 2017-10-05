@@ -1,5 +1,5 @@
 ---
-layout: contact
+layouts: contact
 permalink: index.html
 ---
 <section>
