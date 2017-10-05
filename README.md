@@ -1,7 +1,8 @@
 ---
+layout: contact
 permalink: index.html
 ---
-
+<section>
 # username
 
 ## Qui suis-je ?
@@ -30,4 +31,49 @@ Je veux développer des compétences en Fullstack PHP
 
 Mon projet professionnel, c'est de travailler dans une start up pour le travail en équipe, l'effervescence
 
-Vous souhaitez me contacter : [ici](contact.html)
+  <section class="form">
+  <h1>Vous souhaitez me contacter :</h1>
+  <form action="https://formspree.io/laura.delahaye@gmail.com"
+          method="POST">
+    <div class="burger">
+      <div class="bun-top">Votre société : <br>
+          <input type="texte" name="société" value="" required/><br>
+        Site : <br><input type="url" name="société" value="" />
+      </div>
+      
+      <div class="cheese"></div>
+      <div class="tomato">
+        Nom :<br><input type="texte" name="nom" value="" required/></div>
+      <div class="cheese"></div>
+      <div class="cheese">
+        Prénom :<br><input type="texte" name="prénom" value="" required/></div>
+      <div class="cheese"></div>
+      <div class="onion"></div>
+      <div class="meatball">
+        Email :<br><input type="email" name="email" value="" required/></div>
+      <div class="meatball"></div>
+      <div class="meatball"></div>
+      <div class="pickle">
+        Téléphone :<br> 
+        <input type="tel" name="tel" value="" required/></div>
+      <div class="patty"><br>
+        Vous recherchez :<br> 
+        <input type="radio" name="contrat" value="stage"/>Un stagiaire<br>
+        <input type="radio" name="contrat" value="cdd"/>Un CDD<br>
+        <input type="radio" name="contrat" value="cdi"/>Un CDI<br>
+        <input type="radio" name="contrat" value="contrat pro"/>Un contrat de professionnalisation<br></div>
+      <div class="patty"></div>
+      <div class="bun-bottom"></div>
+      <div class="plate"></div>
+    </div>
+ 
+    
+    <br>
+    <textarea name="message" rows="15" cols="40">
+      Laissez moi un message...
+    </textarea><br/>
+    
+    <input type="submit" value="Envoyer"/>
+    </form>
+</section>
+</section>
