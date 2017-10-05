@@ -2,7 +2,7 @@
 layout: contact
 permalink: index.html
 ---
-<section>
+
 # username
 
 ## Qui suis-je ?
@@ -66,6 +66,7 @@ Mon projet professionnel, c'est de travailler dans une start up pour le travail 
       <div class="bun-bottom"></div>
       <div class="plate"></div>
     </div>
+   
  
     
     <br>
@@ -76,4 +77,4 @@ Mon projet professionnel, c'est de travailler dans une start up pour le travail 
     <input type="submit" value="Envoyer"/>
     </form>
 </section>
-</section>
+
