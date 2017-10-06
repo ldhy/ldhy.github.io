@@ -1,0 +1,26 @@
+
+h1{
+   font-size: 15px;
+}
+
+section{
+	display: flex;
+    justify-content: space-between;
+}
+
+header, footer{
+    height: 30px;
+    background-color: yellow;
+    border: solid grey 1px;
+}
+
+nav, aside{
+	border: solid grey 1px ;
+	width: 20%;
+	background-color: lavender;
+}
+
+article{
+	background-color: #9DD0A7;
+	width: 60%;
+}
