@@ -55,7 +55,7 @@ Mon projet professionnel, c'est de travailler dans une start up pour le travail 
       <div class="meatball"></div>
       <div class="pickle">
         Téléphone :<br> 
-        <input type="tel" name="tel" value="" required/></div>
+        <input type="tel" name="tel" value=""/></div>
       <div class="patty"><br>
         Vous recherchez :<br> 
         <input type="radio" name="contrat" value="stage"/>Un stagiaire<br>
