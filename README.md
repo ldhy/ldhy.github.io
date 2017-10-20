@@ -14,11 +14,8 @@ J'ai des qualités et des défauts :  je suis détermninée, persévérante, id�
 
 ## Mon parcours
 
-Mon **parcours** en maximum 2 ou 3 étapes majeures.
-
 Après un bts professions immobilères, j'ai été pendant plusieurs années gestionnaire locatif, ça ne me convenait finalement pas donc 
 
--> been there, done that.
 
 ## Aujourd'hui
 
