@@ -3,7 +3,6 @@ layout: contact
 permalink: index.html
 ---
 
-# username
 
 ## Qui suis-je ?
 
